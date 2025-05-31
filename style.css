@@ -1,0 +1,90 @@
+.header-container{
+    background-color: rgb(57, 57, 51);
+    
+    margin-top: 0px;
+    height: 150px;
+
+    
+}
+
+#logo{
+    text-shadow: 600px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 10px;
+    padding-top: 10px;
+    color: aliceblue;
+        
+}
+
+#header-links{
+    float: right;
+    padding-right: 10px;
+    padding-top: 50px;
+    
+     
+    
+}
+a{
+    text-decoration: none;
+    margin: 20px;
+    color: white;
+    font-weight: 200;
+}
+
+a:hover{
+    font-weight: 700;
+    color: black;
+}
+
+.hero{
+    margin-top: 0px;
+    height: 900px;
+    background-image: url('images/pexels-musa-artful-1920784-4757751.jpg');
+    background-size: 100%;
+    border-radius: 10px;
+}
+
+#over-text-box{
+    color:rgb(0, 0, 0);
+      background-color: rgb(0, 0, 0);
+     opacity: 0.5; /* Makes the entire element, including text, 50% transparent */
+     padding: 20px;
+     height: 900px;
+
+}
+body{
+    background-color: black;
+}
+
+h2{
+    text-align: center;
+    color: white;
+
+}
+
+#contents{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+.container {
+    color:rgb(255, 255, 255);
+    margin-top: 200px;
+    margin-bottom: 1px;
+    height: 50px;
+    color:rgb(0, 0, 0);
+      background-color: rgb(255, 255, 255);
+     opacity: 0.5; /* Makes the entire element, including text, 50% transparent */
+     padding: 20px;
+     height: 200px;
+     border-radius: 10px;
+
+}
+
+.footer-container{
+    background-color: rgb(57, 57, 51);
+    margin-top: 380px;
+    height: 80px;
+    text-align: center;
+    padding-top: 0px;
+}
