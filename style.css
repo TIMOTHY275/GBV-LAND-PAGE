@@ -75,11 +75,25 @@ h2{
     color:rgb(0, 0, 0);
       background-color: rgb(255, 255, 255);
      opacity: 0.5; /* Makes the entire element, including text, 50% transparent */
-     padding: 20px;
+     width: 25%;
      height: 200px;
-     border-radius: 10px;
+     margin: 10px;
+     display:ruby;
+}     
 
+img:hover{
+border-color: rgb(255, 255, 255);
+border-radius: 50px;
+transition-duration: 0.4s ;
 }
+
+#hyperlinked-images{
+    border-color: aliceblue;
+    
+    margin-left: 200px;
+}
+
+
 
 .footer-container{
     background-color: rgb(57, 57, 51);
